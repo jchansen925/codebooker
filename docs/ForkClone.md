@@ -16,14 +16,14 @@ Once you are on the main GitHub page of the repo, click the Fork button at the t
 
 ### Step 3
 
-You will now be on a page with the heading "Create a new fork".
-There are two fields which are required, Owner and Repository name. Make sure the owner is you and the repository name is correct. These fields should already be populated when you cliked to this page in Step 2.
+You will now be on a page with the heading "Create a new fork."
+There are two fields which are required, Owner and Repository name. Make sure the owner is you and the repository name is correct. These fields should already be populated when you clicked to this page in Step 2.
 
 ![](CreateFork.png)
 
 ### Step 3
 
-Click on the green "Create fork" button on the lower right hand corner of the page
+Click on the green "Create fork" button on the lower right hand corner of the page.
 
 ![](CreateForkBtn.png)
 
@@ -37,19 +37,19 @@ You will now have a forked version of the original repo that is up to date with 
 
 ### Step 1
 
-Clone this repo to your local machine using (https://github.com/gbowne1/codebooker.git)
+Clone this repo to your local machine using (https://github.com/gbowne1/codebooker.git).
  
 ### Step 2
 
-Create your feature branch using git checkout -b my-feature
+Create your feature branch using git checkout -b my-feature.
 
 ### Step 3
 
-Commit your changes using git commit -m 'feat: My new feature';
+Commit your changes using git commit -m 'feat: My new feature'.
 
 ### Step 4
 
-Push to the branch using git push origin my-feature;
+Push to the branch using git push origin my-feature.
 
 ### Step 5
 
