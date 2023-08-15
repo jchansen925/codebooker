@@ -53,5 +53,5 @@ Push to the branch using git push origin my-feature.
 
 ### Step 5
 
-Create a new [pull request] (SubmitPR.md)
+Create a new [pull request] (SubmitPR.md).
 After your Pull Request is merged, can you delete your feature branch.
